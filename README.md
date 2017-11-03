@@ -14,6 +14,10 @@ You'll want to have the following installed globally
 In the project directory, run these commands:
 ```
  npm install
+ cd contracts
+ truffle compile 
+ cd ..
+ 
  npm start
 ```
 
